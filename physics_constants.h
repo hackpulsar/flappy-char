@@ -1,0 +1,9 @@
+#ifndef PHYSICS_CONSTANTS_H
+#define PHYSICS_CONSTANTS_H
+
+#define GRAVITY -0.2
+#define MAX_VELOCITY_POS 2
+#define MAX_VELOCITY_NEG -2
+
+#endif // !PHYSICS_CONSTANTS_H
+
