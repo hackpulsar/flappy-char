@@ -1,4 +1,4 @@
-sources := main.c object.c core.c screen.c
+sources := src/main.c src/object.c src/core.c src/screen.c
 executable = flappy_char
 
 compile:
